@@ -1,0 +1,104 @@
+*.mdb  
+*.ldb  
+*.sln  
+*.config  
+*.sdf
+*.vcxproj
+*.filters
+*.vs
+*.o
+*.out
+#¹ýÂËÎÄ¼þ¼ÐDebug,Release,obj  
+Debug/  
+Release/  
+obj/
+cmake-build-debug/ 
+.idea/ 
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.ilk
+*.pdb
+*.sln
+*.tlog
+*.log
+*.obj
+*.idb
+*.lastbuildstate
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.VC.db
+*.ipch
+.idea
+out/
+*.iml
+.idea/
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+
+*.tar.gz
+*.rar
+
+.idea/
+out/
+*.xml
+*.iml
+*.class
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
